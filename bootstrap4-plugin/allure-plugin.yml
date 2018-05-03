@@ -1,0 +1,9 @@
+# Bootstrap: https://getbootstrap.com
+
+id: bootstrap4
+name: Bootstrap4 static css
+description: Just adding bootstrap.min.css as a static plugin
+
+#will add files below to main page as <link rel="stylesheet" href="file.css">, comment it if you don't need
+#cssFiles:
+#  - file.css
